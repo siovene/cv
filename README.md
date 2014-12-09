@@ -1,1 +1,1 @@
-This is my curriculum vital. Build it with `lualatex`.
+This is my curriculum vitae. Build it with `lualatex`.
