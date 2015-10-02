@@ -68,7 +68,7 @@
 \pagestyle{empty}
 \setlength\parindent{0pt}
 \color[HTML]{303030} % Default foreground color
-\definecolor{link}{HTML}{02304D} % Hyperlinks
+\definecolor{link}{HTML}{801010} % Hyperlinks
 \hypersetup{colorlinks,breaklinks,urlcolor=link,linkcolor=link}
 \setkomafont{disposition}{\color[HTML]{801010}}
 \setkomafont{section}{\scshape\Large\mdseries}
